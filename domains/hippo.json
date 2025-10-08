@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "hassan7-8"
+  },
+  "record": {
+    "A": ["216.198.79.1"],
+    "TXT": ["vc-domain-verify=hippochat.is-a.dev,27c977860179c1843832"]
+  }
+}
